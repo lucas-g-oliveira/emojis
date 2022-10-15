@@ -4,6 +4,8 @@
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
+[Others Emogis in Html](https://www.freecodecamp.org/portuguese/news/todos-os-emojis-lista-de-emojis-para-copiar-e-colar/)
+
 ## Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
